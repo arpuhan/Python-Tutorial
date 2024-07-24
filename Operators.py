@@ -1,0 +1,9 @@
+a=12
+b=20
+print(a,"+",b," = ",a+b)    # Additon
+print(a,"-",b," = ",a-b)    # Substraction
+print(a,"*",b," = ",a*b)    # Multiplication
+print(a,"/",b," = ",a/b)    # Division
+print(a,"//",b," = ",a//b)  #Floor Division
+print(a,"**",b," = ",a**b)  #Exponential
+print(a,"%",b," = ",a%b)    #Modulus
