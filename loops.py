@@ -21,3 +21,11 @@ x = 4
 while (x>0):
     print(x)
     x=x-1
+
+################## else with loop ####################################
+x=5
+while(x>0):
+    print(x)
+    x =x-1
+else:
+    print("Loop ended")
